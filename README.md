@@ -11,7 +11,7 @@ Documentation for the Restaurant Billing System:
 <br>
 <h5>Project Structure:</h5>
 <p>The project is organized as a single C source file.
-It includes standard C libraries like <stdio.h>, <string.h>, and <stdlib.h> for various functionalities.</p>
+It includes standard C libraries like <stdio.h> , <string.h> , and <stdlib.h> for various functionalities.</p>
 <br>
 <h5>Key Components:</h5><br>
 The project comprises several key components:
